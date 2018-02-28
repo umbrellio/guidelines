@@ -25,7 +25,7 @@ This manual describes the style and minimal requirements of maintaining and supp
 
 ### Title
 
-Minimal description of the repository. Should describe the main objective of the project. Clear and correct formuatlion is needed because it affects the SEO part.
+Minimal description of the repository. Should describe the main objective of the project. Clear and correct formulation is needed because it affects the SEO part.
 
 ### Description
 
@@ -51,7 +51,7 @@ The main section with project documentation in an arbitary form (can be moved to
 ### Links
 
 Links to arcticles that refers to the current project (articles of other companies, our articles, Medium links, reddit topics and etc).
-For the high popular projects this section is optional.
+For the highly popular projects this section is optional.
 
 ### Contributing / Code of Conduct
 
