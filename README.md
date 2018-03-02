@@ -64,7 +64,7 @@ Main sections:
 - License: short description, license type, link to the license file;
 - About us: briefly shows the company ideals and the list of the project maintainers and top contributors.
   Basic form:
-  - (reuired) [company logo with sponsorship label](https://github.com/umbrellio/Umbrellio);
+  - (required) [company logo with sponsorship label](https://github.com/umbrellio/Umbrellio);
   - (optional) short description that describes companie's values;
   - (required) short list of top maintainers and contributors.
 
