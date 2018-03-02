@@ -5,14 +5,13 @@ This manual describes the style and minimal requirements of maintaining and supp
 ## Table of contents:
 
 * [Github Repository Design](#github-repository-design)
-  * Own projects
-    * [Title](#title)
-    * [Description](#description)
-    * [Table of contents](#table-of-contents)
-    * [Links](#links-in-development)
-    * [Contributing / Code of Conduct](#contributing-code-of-conduct)
-    * [License / Copyright / About us](#license-copyright-about-us)
-  * [Forks](#forks)
+  * [Title](#title)
+  * [Description](#description)
+  * [Table of contents](#table-of-contents)
+  * [Links](#links-in-development)
+  * [Contributing / Code of Conduct](#contributing-code-of-conduct)
+  * [License / Copyright / About us](#license-copyright-about-us)
+* [Forks](#forks)
 * [External services (CI and others)](#external-services)
 * [Code style and Workflow design](#code-style-and-workflow-design)
   * [Workflow Design](#workflow-design-in-development)
