@@ -54,9 +54,9 @@ For the highly popular projects this section is optional.
 
 ### Contributing / Code of Conduct
 
-Provide a link to our [Contributing Rules](https://github.com/umbrellio/guidelines/blob/master/CONTRIBUTING.md)
+Provide a link to our [Contributing Rules](https://github.com/umbrellio/guidelines/blob/master/CONTRIBUTING.md) (or put this file into the repo itself).
 
-Provide a link to our [Code of Conduct](https://github.com/umbrellio/guidelines/blob/master/CODE_OF_CONDUCT.md)
+Provide a link to our [Code of Conduct](https://github.com/umbrellio/guidelines/blob/master/CODE_OF_CONDUCT.md) (or put this file into the repo itself).
 
 ### License / Copyright / About Us
 
